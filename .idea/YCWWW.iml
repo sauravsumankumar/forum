@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/bantu/ini-get-wrapper" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/google/recaptcha" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/guzzlehttp/ringphp" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/guzzlehttp/streams" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/ircmaxell/password-compat" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/lusitanian/oauth" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/marc1706/fast-image-size" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/ocramius/proxy-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/patchwork/utf8" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/react/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/s9e/text-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/polyfill-php54" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/polyfill-php55" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/proxy-manager-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/zendframework/zend-code" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/zendframework/zend-eventmanager" />
+      <excludeFolder url="file://$MODULE_DIR$/cn/vendor/zendframework/zend-stdlib" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

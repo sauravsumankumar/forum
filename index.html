@@ -1,0 +1,9 @@
+<script>
+//检测浏览器语言 
+var currentLang = navigator.language;   //判断除IE外其他浏览器使用语言
+if(!currentLang){//判断IE浏览器使用语言
+    currentLang = navigator.browserLanguage;
+}
+location.href = currentLang.substr(0, 3) === 'zh-' ? '/cn/' : '/en/';
+</script>
+
