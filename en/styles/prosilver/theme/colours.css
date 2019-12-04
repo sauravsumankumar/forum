@@ -150,7 +150,9 @@ table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
 
 .site_logo {
 	background-image: url("./images/site_logo.svg");
-	background-size: 149px 52px;
+	background-size: 90px 40px;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 /* Horizontal lists
