@@ -9,7 +9,7 @@ html, body {
 }
 
 h1 {
-	color: #FFFFFF;
+	color: #000;
 }
 
 h2 {
@@ -31,12 +31,12 @@ hr {
 Colours and backgrounds for links.css
 -------------------------------------------------------------- */
 
-a { color: #105289; }
-a:hover { color: #D31141; }
+a { color: #000; }
+a:hover { color: #1F71B7; }
 
 /* Links on gradient backgrounds */
 .forumbg .header a, .forabg .header a, th a {
-	color: #FFFFFF;
+	color: #000;
 }
 
 .forumbg .header a:hover, .forabg .header a:hover, th a:hover {
@@ -90,21 +90,15 @@ a:hover { color: #D31141; }
 }
 
 .headerbar, .forumbg {
-	background-color: #12A3EB;
-	background-image: -webkit-linear-gradient(top, #6ACEFF 0%, #0076B1 2px, #12A3EB 92px, #12A3EB 100%);
-	background-image: linear-gradient(to bottom, #6ACEFF 0%,#0076B1 2px,#12A3EB 92px,#12A3EB 100%);
-	background-repeat: repeat-x;
+	background-color: rgba(83,83,83,0.4);
 }
 
 .forabg {
-	background-color: #0076B1;
-	background-image: -webkit-linear-gradient(top, #6ACEFF 0%, #12A3EB 2px, #0076B1 92px, #0076B1 100%);
-	background-image: linear-gradient(to bottom, #6ACEFF 0%,#12A3EB 2px,#0076B1 92px,#0076B1 100%);
-	background-repeat: repeat-x;
+	background-color: rgba(83,83,83,0.4);
 }
 
 .navbar {
-	background-color: #CADCEB;
+	background-color: #eee;
 }
 
 .panel {
@@ -343,7 +337,7 @@ ul.topiclist dd {
 
 li.row {
 	border-top-color:  #FFFFFF;
-	border-bottom-color: #00608F;
+	background-color: #eee;
 }
 
 li.row strong {
@@ -351,7 +345,7 @@ li.row strong {
 }
 
 li.row:hover {
-	background-color: #F6F4D0;
+	background-color: #dcdcdc;
 }
 
 li.row:hover dd {
@@ -364,7 +358,7 @@ li.row:hover dd {
 }
 
 li.header dt, li.header dd {
-	color: #FFFFFF;
+	color: #000;
 }
 
 /* Post body styles
